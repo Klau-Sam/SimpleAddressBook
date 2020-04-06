@@ -1,0 +1,1 @@
+Prosta ksiazka adresowa zrobiona w konsoli z funkcjami takimi jak: przegladanie wpisow, modyfikowanie oraz usuwanie wpisow z ksiazki adresowej, dodawanie nowych oraz mozliwosc wyszukiwania adresow po nazwisku zamieszkalej osoby. 
